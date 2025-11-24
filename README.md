@@ -1,4 +1,3 @@
----
 
 # 📌 Student Management API
 
